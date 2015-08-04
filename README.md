@@ -16,6 +16,8 @@
     $ rails server
         or
     $ rails s
+
+##### **localhost:3000**
     
 ### To fix the error no database
 
