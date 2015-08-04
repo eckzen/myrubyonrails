@@ -5,7 +5,12 @@
 ### To install gemfile
     
     $ bundle install
-    
+
+#### Open gemfile
+
+    You can edit the gemfile comment some of the packages
+    then run bundle install 
+
 ### To run Rails Server
 
     $ rails server
