@@ -11,7 +11,7 @@
     You can edit the gemfile comment some of the packages
     then run bundle install 
 
-### To run Rails Server
+### To run Rails Server (WebServer)
 
     $ rails server
         or
@@ -30,3 +30,11 @@
     mysql>FLUSH PRIVILEGES; (ENTER)
     
     mysql>quit (ENTER)
+    
+### Generate Controller
+
+    $ rails generate controller demo index
+    
+### To view the list
+    
+    $ rails generate
